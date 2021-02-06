@@ -1,0 +1,6 @@
+MaxDepth = 9
+TotalGenerated = 8864
+TotalExpanded=4000
+Time = 7.341785 seconds
+Expanded/Second = 544
+Score:11
