@@ -1,6 +1,6 @@
-MaxDepth = 9
-TotalGenerated = 8864
-TotalExpanded=4000
-Time = 7.341785 seconds
-Expanded/Second = 544
-Score:11
+MaxDepth = 22
+TotalGenerated = 151934
+TotalExpanded=62409
+Time = 104.393380 seconds
+Expanded/Second = 597
+Score:414
