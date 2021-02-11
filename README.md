@@ -2,14 +2,14 @@
 ## To play
 Play the game with the keyboard by executing
 
-./pacman <level>
+./pacman /<level/>
 
 Where level is from 0 to 9
 
 ## To run AI pacman 
 Execute pacman with AI by executing
 
-./pacman <level> <ai/ai pause> <max/avg> <budget>
+./pacman /<level/> /<ai/ai pause/> /<max/avg/> /<budget/>
 
 Where ai pause calls your algorithm and pauses the game to allow playing one step at a time. <max/avg> is either max or avg, to select the 2 options for propagating scores, and <budget> is an integer number indicating the budget of your search.
 
